@@ -1,2 +1,6 @@
 # sorting_algorithm
 Simple Sorting Algorithm with Python
+
+This is my first attempt into making a simple number sorting algorithm with Python...
+Any feedbacks or constructive criticism towards making a more efficient(better) algorithm are welcomed...
+
